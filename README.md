@@ -1,2 +1,1 @@
-# smallintro.github.io
-Small Intro to Git Hub Page
+This repository is for maintaining the [GitHub Pages code](https://smallintro.github.io)
