@@ -14,12 +14,14 @@ In my free time I read technical blogs and practice coding.  Here is the link to
 | Spring MVC | Spring Boot | GitHub | Postman | Linux OS |
 
 ### Experience Summary
+
 | . | . | . |
 |---|---|---|
 | CSI Interfusion India Pvt. Ltd.	| Dec 2017 - Present | Technical Project Lead |
 | Huawei Technologies India Pvt. Ltd.| April 2011 - Nov 2017 | Technical Project Lead |
 
 ### Educational Qualifications:
+
 | . | . | . | . |
 |---|---|---|---|
 |2006 \- 2010| B.Tech | Computer Science & Engineering | Calcutta Institute of Technology |
