@@ -6,7 +6,7 @@ In my free time I read technical blogs and practice coding.  Here is the link to
 
 ### Technical Knowledge: 
 
-| . | . | . | . | . |
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|---|---|
 | Java Enterprise Edition (JEE) | SOAP Web Services | Kubernetes | Oracle PL/SQL | Swagger UI |
 | Jakarta Server Pages (JSP) | RESTful APIs | Docker | PostgreSQL| Hibernate |
@@ -15,14 +15,14 @@ In my free time I read technical blogs and practice coding.  Here is the link to
 
 ### Experience Summary
 
-| . | . | . |
+| <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|
 | CSI Interfusion India Pvt. Ltd.	| Dec 2017 - Present | Technical Project Lead |
 | Huawei Technologies India Pvt. Ltd.| April 2011 - Nov 2017 | Technical Project Lead |
 
 ### Educational Qualifications:
 
-| . | . | . | . |
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|---|
 |2006 \- 2010| B.Tech | Computer Science & Engineering | Calcutta Institute of Technology |
 |2003 \- 2005| Higher Secondary | Science | Salkia Vikram Vidyalaya |
