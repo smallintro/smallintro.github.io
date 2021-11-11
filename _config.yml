@@ -1,3 +1,14 @@
 theme: jekyll-theme-cayman
-title: [Sushil Kumar Prasad]
-description: [Java | Python | Microservices]
+title: [Sushil Prasad]
+author:
+  name: Sushil Prasad
+  email: cse.sushil@gmail.com
+description: [Technical Project Lead]
+
+
+# generate social links in footer
+social_links:
+  twitter: social_sushil
+  github:  smallintro
+  instagram: socialsushil
+  linkedin: sushilprasad
