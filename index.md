@@ -1,9 +1,9 @@
 
-## Hello World,
-
+>>>                                                                 Hello World! 
 I am [Sushil Prasad](https://www.linkedin/in/sushilprasad), a software engineer from India. I have 10 years of experience working with various technologies related to Java and Python.
 I have worked in all the stages of software development life cycle, starting from requirement discussion to product delivery and installation.
-In my free time I read technical blogs and do some hands on coding.  Here is the link to some of my public [github demo projects](https://www.github.com/smallintro).
+In my free time I read technical blogs and do some [hands on coding](https://www.github.com/smallintro).
+
 
 ### Technical Knowledge:
 
@@ -26,9 +26,9 @@ In my free time I read technical blogs and do some hands on coding.  Here is the
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |---|---|---|---|
-|2006 \- 2010| B.Tech | Computer Science & Engineering | Calcutta Institute of Technology |
-|2003 \- 2005| Higher Secondary | Science | Salkia Vikram Vidyalaya |
-|2001 \- 2003| Secondary	| General | Salkia Vikram Vidyalaya |
+|2006 - 2010| B.Tech | Computer Science & Engineering | Calcutta Institute of Technology |
+|2003 - 2005| Higher Secondary | Science | Salkia Vikram Vidyalaya |
+|2001 - 2003| Secondary	| General | Salkia Vikram Vidyalaya |
 
 ### Online course completed:
 
@@ -49,5 +49,6 @@ In my free time I read technical blogs and do some hands on coding.  Here is the
 Apart from writing code, I am also interested in writing blog. I have two personal blogs. smallintro.com where I write about small introduction about various technologies and another one is smallpaisa.com for sharing my financial knowledge.
 Both of my blogs have the same theme template which I have customized to learn HTML and CSS.
 -->
+>>>>
+```This page is create to learn about```[```Markdown and GitHub pages```](https://guides.github.com/features/mastering-markdown)
 
-This page is create to learn [Markdown and github pages](https://guides.github.com/features/mastering-markdown)
