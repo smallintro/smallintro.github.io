@@ -1,8 +1,6 @@
-
 ## Hello World! 
 I am [Sushil Prasad](https://www.linkedin/in/sushilprasad), a software engineer from India. I have 10 years of experience working with various technologies related to Java and Python. I have worked in all the stages of software development life cycle, starting from requirement discussion to product delivery and installation.
 In my free time I read technical blogs and do some [hands on coding](https://www.github.com/smallintro).
-
 
 ### Technical Knowledge:
 
@@ -43,11 +41,4 @@ In my free time I read technical blogs and do some [hands on coding](https://www
 >#### [Python Programming from Intermediate to Expert](https://www.udemy.com/certificate/UC-c3ec7083-5753-413a-9e1c-789d3ecde6cd/)
 ![python-from-intermediate-to-expert](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/python-from-intermediate-to-expert.jpg)
 
-<!--
-### Hobbies and Interests:
-Apart from writing code, I am also interested in writing blog. I have two personal blogs. smallintro.com where I write about small introduction about various technologies and another one is smallpaisa.com for sharing my financial knowledge.
-Both of my blogs have the same theme template which I have customized to learn HTML and CSS.
--->
-
-```This page is create to learn about```[```Markdown and GitHub pages```](https://guides.github.com/features/mastering-markdown)
-
+This page is create to learn about [Markdown and GitHub pages](https://guides.github.com/features/mastering-markdown)
