@@ -2,8 +2,8 @@
 I am Sushil Prasad, a software engineer from India.
 I have 10+ years of experience working with various open source technologies related to Java and Python.
 I have experience in requirement discussion, software development, debugging issues, mentoring and managing the development team.
-I have used tools CI/CD and DevOps tools like Jira, Jenkins, Git, Docker, Kubernetes. I am good at design patterns and functional programming.
-I like learning and sharing knowledge. I am very much interested in software designing and agile project management principles.
+I have used CI/CD and DevOps tools like Jira, Jenkins, Git, Docker and Kubernetes. I am good at design patterns and functional programming.
+I like learning new things and sharing my knowledge. I am interested in software designing and agile project management principles.
 
 ### ⚙️Tools and 💻 Technologies I have used
 
@@ -26,11 +26,10 @@ I like learning and sharing knowledge. I am very much interested in software des
 
 ### 🎓 Educational Qualifications
 
-| <!-- -->    | <!-- -->         | <!-- -->                       | <!-- -->                         |
-|-------------|------------------|--------------------------------|----------------------------------|
-| 2006 - 2010 | B.Tech           | Computer Science & Engineering | Calcutta Institute of Technology |
-| 2003 - 2005 | Higher Secondary | Science                        | Salkia Vikram Vidyalaya          |
-| 2001 - 2003 | Secondary	       | General                        | Salkia Vikram Vidyalaya          |
+| <!-- -->   | <!-- -->                       | <!-- -->                                   |
+|------------|--------------------------------|--------------------------------------------|
+| B.Tech     | Computer Science & Engineering | Calcutta Institute of Technology (W.B.U.T) |
+
 
 ### 📚 Online courses I have completed
 

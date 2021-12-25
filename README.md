@@ -1,1 +1,1 @@
-This repository is for maintaining the [GitHub Pages code](https://smallintro.github.io)
+This repository is for maintaining the [Portfolio code](https://smallintro.github.io)
