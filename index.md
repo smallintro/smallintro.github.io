@@ -1,8 +1,8 @@
 ## 👋 Hello World!
 I am Sushil Prasad, a software engineer from India.
-I have 10+ years of experience working with various open source technologies related to Java and Python.
+I have more than ten years of experience working with various open source technologies related to Java and Python.
 I have experience in requirement discussion, software development, debugging issues, mentoring and managing the development team.
-I have used CI/CD and DevOps tools like Jira, Jenkins, Git, Docker and Kubernetes. I am good at design patterns and functional programming.
+I have used CI/CD and DevOps tools like Jira, Jenkins, Git, Docker and Kubernetes in my software development projects. I am good at design patterns and functional programming.
 I like learning new things and sharing my knowledge. I am interested in software designing and agile project management principles.
 
 ### ⚙️Tools and 💻 Technologies I have used
@@ -14,8 +14,7 @@ I like learning new things and sharing my knowledge. I am interested in software
 | ![Oracle PLSQL](https://img.shields.io/badge/-Oracle%20PL%20SQL-F80000?style=plastic&logo=oracle&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white) | ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white)     | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white)                     | ![Junit5](https://img.shields.io/badge/-Junit5-25A162?style=plastic&logo=junit5&logoColor=white)             |
 | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white)               | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white)       | ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=white)                             | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=go&logoColor=white)                              | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=plastic&logo=markdown&logoColor=white)       |
 | ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)                           | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=plastic&logo=jira&logoColor=white)                   | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)                       | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)                  | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white) |
-| ![JSON](https://img.shields.io/badge/-JSON-000000?style=plastic&logo=json&logoColor=white)                        | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=plastic&logo=postman&logoColor=white)          | ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=plastic&logo=insomnia&logoColor=white)                    | ![Curl](https://img.shields.io/badge/-Curl-073551?style=plastic&logo=curl&logoColor=white)                        | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)    |
-| ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white)               | ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=plastic&logo=intellijidea&logoColor=white)   | ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white) | ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white) | ![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=plastic&logo=blogger&logoColor=white)          |
+
 
 ### 💼 Organizations I have worked for
 
