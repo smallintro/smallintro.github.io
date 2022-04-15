@@ -1,10 +1,10 @@
 ## 👋 Hello World!
 I am Sushil Prasad, a software engineer from India.
-I have more than ten years of experience working with various open source technologies related to Java and Python.
-I have experience in requirement discussion, software development, debugging issues, mentoring and managing the development team.
-I have used CI/CD and DevOps tools like Jira, Jenkins, Git, Docker and Kubernetes in my software development projects. I am good at design patterns and functional programming.
-I like learning new things and sharing my knowledge. I am interested in software designing and agile project management principles.
+I have more than ten years of experience in monolithic, and microservices application development.
+In my 10 years of past professional experience, I have worked as full stack developer, maintenance coordinator, software delivery engineer and module development lead.
 
+I like learning new things and sharing my knowledge.
+ 
 ### ⚙️Tools and 💻 Technologies I have used
 
 | <!-- -->                                                                                                          | <!-- -->                                                                                                     | <!-- -->                                                                                                                  | <!-- -->                                                                                                          | <!-- -->                                                                                                     |
@@ -31,6 +31,8 @@ I like learning new things and sharing my knowledge. I am interested in software
 
 
 ### 📚 Online courses I have completed
+>#### [Lambda with Functional Programming in Java8](https://www.udemy.com/certificate/UC-b14a7b2c-a78c-489c-8af4-f7ce8223099c//)
+![lambda-with-functional-programming-in-java8](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/lambda-with-functional-programming-in-java8.jpg)
 
 >#### [Master RESTful APIs with Spring Boot](https://www.udemy.com/certificate/UC-49f1bdb9-e721-460c-965f-9cdbef3103a2/)
 ![master-restful-apis-with-spring-boot](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/master-restful-apis-with-spring-boot.jpg)
