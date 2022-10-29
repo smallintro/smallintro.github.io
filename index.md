@@ -1,7 +1,7 @@
 ## 👋 Hello World!
 I am Sushil Prasad, a software engineer from India.
 I have more than ten years of experience in monolithic, and microservices application development.
-In my 10 years of past professional experience, I have worked as full stack developer, maintenance coordinator, software delivery engineer and module development lead.
+In my 10 years of professional experience, I have worked as full stack developer, maintenance coordinator, software delivery engineer and module development lead.
 
 I like learning new things and sharing my knowledge.
  
@@ -31,6 +31,12 @@ I like learning new things and sharing my knowledge.
 
 
 ### 📚 Online courses I have completed
+>#### [Containers on AWS](https://aws.amazon.com/containers/services///)
+![containers-on-aws](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/containers-on-aws.jpg)
+
+>#### [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/learn-about/cloud-practitioner/)
+![aws-cloud-practitioner-essentials](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-cloud-practitioner-essentials.jpg)
+
 >#### [Lambda with Functional Programming in Java8](https://www.udemy.com/certificate/UC-b14a7b2c-a78c-489c-8af4-f7ce8223099c//)
 ![lambda-with-functional-programming-in-java8](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/lambda-with-functional-programming-in-java8.jpg)
 
