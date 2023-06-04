@@ -1,7 +1,7 @@
 ## 👋 Hello World!
 I am Sushil Prasad, a software engineer from India.
-I have more than ten years of experience in monolithic, and microservices application development.
-In my 10 years of professional experience, I have worked as full stack developer, maintenance coordinator, software delivery engineer and module development lead.
+I have twelve years of experience in monolithic, and microservices application development.
+In my 12 years of professional experience, I have worked as full stack developer, maintenance coordinator, software delivery engineer and module development lead.
 
 I like learning new things and sharing my knowledge.
  
@@ -16,12 +16,19 @@ I like learning new things and sharing my knowledge.
 | ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)                           | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=plastic&logo=jira&logoColor=white)                   | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)                       | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)                  | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white) |
 
 
+### ⚙️Key Soft Skills
+
+| <!-- -->                                                                                                           | <!-- -->                                                                                                                 | <!-- -->                                                                                                     | <!-- -->                                                                                                  | <!-- -->                                                                                                          |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-007396?style=plastic&logo=java&logoColor=white) | ![Knowledge Sharing](https://img.shields.io/badge/-Knowledge%20Sharing-43853d?style=plastic&logo=spring&logoColor=white) | ![Team Work](https://img.shields.io/badge/-Team%20Work-43853d?style=plastic&logo=springboot&logoColor=white) | ![Mentoring](https://img.shields.io/badge/-Mentoring-59666C?style=plastic&logo=hibernate&logoColor=white) | ![Adaptability](https://img.shields.io/badge/-Adaptability-C71A36?style=plastic&logo=apachemaven&logoColor=white) |
+
 ### 💼 Organizations I have worked for
 
-| <!-- -->                   | <!-- -->              | <!-- -->               |
-|----------------------------|-----------------------|------------------------|
-| CSI Interfusion, India     | Dec 2017 - Present    | Technical Project Lead |
-| Huawei Technologies, India | April 2011 - Nov 2017 | Technical Project Lead |
+| <!-- -->                          | <!-- -->            | <!-- -->               |
+|-----------------------------------|---------------------|------------------------|
+| Tata Consultancy Service India    | Jun 2022 - Present  | Technical Project Lead |
+| CSI Interfusion (I) Pvt. Ltd.     | Dec 2017 - Jun 2022 | Technical Project Lead |
+| Huawei Technologies (I) Pvt. Ltd. | Apr 2011 - Nov 2017 | Technical Project Lead |
 
 ### 🎓 Educational Qualifications
 
@@ -29,15 +36,27 @@ I like learning new things and sharing my knowledge.
 |------------|--------------------------------|--------------------------------------------|
 | B.Tech     | Computer Science & Engineering | Calcutta Institute of Technology (W.B.U.T) |
 
+### 📚 Certifications
+>#### [AWS Certified Developer Associate](https://www.credly.com/badges/f93b69de-bbdb-4638-b511-e794d30b5d13/)
+![aws-certified-developer-associate](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-certified-developer-associate.png)
+
+>#### [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b4308785-d90f-4cf5-98ab-300b6c0f3102/)
+![aws-certified-cloud-practitioner](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-certified-cloud-practitioner.png)
 
 ### 📚 Online courses I have completed
->#### [Containers on AWS](https://aws.amazon.com/containers/services///)
+>#### [Containers on AWS](https://aws.amazon.com/containers/services/)
 ![containers-on-aws](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/containers-on-aws.jpg)
 
 >#### [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/learn-about/cloud-practitioner/)
 ![aws-cloud-practitioner-essentials](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-cloud-practitioner-essentials.jpg)
 
->#### [Lambda with Functional Programming in Java8](https://www.udemy.com/certificate/UC-b14a7b2c-a78c-489c-8af4-f7ce8223099c//)
+>#### [Ultimate AWS Certified Developer Associate](https://tcsglobal.udemy.com/certificate/UC-25285f0d-7b6f-46f0-beea-a0c9cda79a38/)
+![ultimate-aws-certified-developer-associate](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/ultimate-aws-certified-developer-associate.jpg)
+
+>#### [AWS Cloud Practitioner](https://www.udemy.com/certificate/UC-O45D9BIW/)
+![aws-cloud-practitioner](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-cloud-practitioner.jpg)
+
+>#### [Lambda with Functional Programming in Java8](https://www.udemy.com/certificate/UC-b14a7b2c-a78c-489c-8af4-f7ce8223099c/)
 ![lambda-with-functional-programming-in-java8](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/lambda-with-functional-programming-in-java8.jpg)
 
 >#### [Master RESTful APIs with Spring Boot](https://www.udemy.com/certificate/UC-49f1bdb9-e721-460c-965f-9cdbef3103a2/)
