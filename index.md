@@ -38,10 +38,10 @@ I like learning new things and sharing my knowledge.
 
 ### 📚 Certifications
 >#### [AWS Certified Developer Associate](https://www.credly.com/badges/f93b69de-bbdb-4638-b511-e794d30b5d13/)
-![aws-certified-developer-associate](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-certified-developer-associate.png)
+![aws-certified-developer-associate](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-certified-developer-associate.jpg)
 
 >#### [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b4308785-d90f-4cf5-98ab-300b6c0f3102/)
-![aws-certified-cloud-practitioner](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-certified-cloud-practitioner.png)
+![aws-certified-cloud-practitioner](https://raw.githubusercontent.com/smallintro/smallintro.github.io/master/cource-certificates/aws-certified-cloud-practitioner.jpg)
 
 ### 📚 Online courses I have completed
 >#### [Containers on AWS](https://aws.amazon.com/containers/services/)
